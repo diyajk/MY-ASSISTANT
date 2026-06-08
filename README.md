@@ -2,7 +2,7 @@
 A personalised AI productivity assistant built with Google Gemini API and Python 🤖
 # 🚀 Max AI Productivity Assistant
 
-### 🤖 Your Personal Productivity Partner
+###
 
 Max is an AI-powered productivity assistant built with **Python** and **Google Gemini 2.5 Flash** to help users stay organized, focused, and efficient throughout the day.
 
