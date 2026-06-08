@@ -39,3 +39,4 @@ Whether you're planning your day, managing projects, or breaking down complex ta
 ---
 
 ⭐ Built with Python, AI, and a passion for productivity.
+ADD YOUR OWN API KEY IN IT!
